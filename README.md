@@ -1,4 +1,4 @@
-. Create and setup your Git and Github account mandatory
+0. Create and setup your Git and Github account mandatory
 Git is installed on the iMacs provided by Holberton, but if youre using another computer, you might have to install it yourself.
 
 Configure your basic info (name, email) on your local machine  they will be part of your commits. Tips
